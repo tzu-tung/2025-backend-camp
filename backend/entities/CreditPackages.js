@@ -8,6 +8,7 @@
  * - price: 方案價格
  * - createdAt: 建立時間
  */
+
 const { EntitySchema } = require('typeorm')
 
 module.exports = new EntitySchema({
